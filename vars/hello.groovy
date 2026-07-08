@@ -1,3 +1,3 @@
-def demo(){
+def call(){
   echo "na dhan da leo"
 }
